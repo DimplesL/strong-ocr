@@ -4,6 +4,7 @@
 
 真正开始端到端文本检测与识别是[1]Chunhua Shen团队开始，较为流行的方法包括[1 2,2017]及[1 2 3,2018]
 
+## Deep Learning Methods
 ### 2018
 [1]Mask TextSpotter: An End-to-End TrainableNeural Network for Spotting Text with Arbitrary Shapes [ECCV'2018](http://openaccess.thecvf.com/ECCV2018.py) [pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf) 
 
@@ -11,7 +12,6 @@
 
 [3]An End-to-End TextSpotter with Explicit Alignment and Attention [CVPR'2018](http://openaccess.thecvf.com/CVPR2018.py) [pdf](https://arxiv.org/abs/1803.03474) [code](https://github.com/tonghe90/textspotter)
 
-## Deep Learning Methods
 ### 2017
 [1]Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks[ICCV'2017](http://openaccess.thecvf.com/ICCV2017.py) [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf) [code]
 
