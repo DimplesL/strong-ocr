@@ -27,13 +27,14 @@ Unconstrained Scenarios**
 - intro: Chinese Conference on Pattern Recognition and Computer Vision
 - arxiv: [https://arxiv.org/abs/1808.08410](https://arxiv.org/abs/1808.08410)
 
-**[2017]Segmentation-free Vehicle License Plate Recognition using ConvNet-RNN**
+**[2017]Real-Time Brazilian License Plate Detection and Recognition Using Deep Convolutional Neural Networks**
+- pdf: [Real-Time-Brazilian-License-Plate-Detection-and-Recognition-Using-Deep-Convolutional-Neural-Networks.pdf](https://www.researchgate.net/profile/Claudio_Jung/publication/320677458_Real-Time_Brazilian_License_Plate_Detection_and_Recognition_Using_Deep_Convolutional_Neural_Networks/links/5b21023f0f7e9b0e373f9f64/Real-Time-Brazilian-License-Plate-Detection-and-Recognition-Using-Deep-Convolutional-Neural-Networks.pdf)
 
+**[2017]Segmentation-free Vehicle License Plate Recognition using ConvNet-RNN**
 - intro: International Workshop on Advanced Image Technology, January, 8-10, 2017. Penang, Malaysia. Proceeding IWAIT2017
 - arxiv: [https://arxiv.org/abs/1701.06439](https://arxiv.org/abs/1701.06439)
 
 **[2017]License Plate Detection and Recognition Using Deeply Learned Convolutional Neural Networks**
-
 - arxiv: [https://arxiv.org/abs/1703.07330](https://arxiv.org/abs/1703.07330)
 - api: [https://www.sighthound.com/products/cloud](https://www.sighthound.com/products/cloud)
 
@@ -42,10 +43,16 @@ Unconstrained Scenarios**
 [https://arxiv.org/abs/1707.03124](https://arxiv.org/abs/1707.03124)
 
 **[2017]Towards End-to-End Car License Plates Detection and Recognition with Deep Neural Networks**
+- pdf: [http://www.ssijmr.org/downloadpdf/144_3_2.pdf](http://www.ssijmr.org/downloadpdf/144_3_2.pdf)
+
+**[2017]A Robust and Efficient Approach to License Plate Detection**
 - arxiv: [https://arxiv.org/abs/1709.08828](https://arxiv.org/abs/1709.08828)
 
 **[2016]Reading Car License Plates Using Deep Convolutional Neural Networks and LSTMs**
 - arxiv: [http://arxiv.org/abs/1601.05610](http://arxiv.org/abs/1601.05610)
+
+**[2016]License Plate Detection using Harris Corner and Character Segmentation by Integrated Approach from an Image**
+- pdf: [License Plate Detection using Harris Corner.pdf](https://ac.els-cdn.com/S187705091600185X/1-s2.0-S187705091600185X-main.pdf?_tid=47de48a6-873d-49b8-a974-2a36593845b9&acdnat=1537964558_2edede8e440784a4528974db5e4f8675)
 
 
 ## project
@@ -73,3 +80,9 @@ Unconstrained Scenarios**
 **[2014]openalpr: open source Automatic License Plate Recognition library**
 - 博客：[车牌识别中的不分割字符的端到端(End-to-End)识别](http://blog.csdn.net/article/details?id=52174198)
 - 代码：[Automatic License Plate Recognition library http://www.openalpr.com](https://github.com/openalpr/openalpr)  
+
+## Commercial systems
+**[2017]License Plate Detection and Recognition Using Deeply Learned Convolutional Neural Networks**
+- Sighthound
+- arxiv: [http://cn.arxiv.org/abs/1703.07330](http://cn.arxiv.org/abs/1703.07330)
+
