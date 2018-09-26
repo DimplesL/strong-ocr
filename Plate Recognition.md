@@ -42,19 +42,16 @@ Unconstrained Scenarios**
 [https://arxiv.org/abs/1707.03124](https://arxiv.org/abs/1707.03124)
 
 **[2017]Towards End-to-End Car License Plates Detection and Recognition with Deep Neural Networks**
-
 - arxiv: [https://arxiv.org/abs/1709.08828](https://arxiv.org/abs/1709.08828)
 
-**Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline**
-
 **[2016]Reading Car License Plates Using Deep Convolutional Neural Networks and LSTMs**
-
 - arxiv: [http://arxiv.org/abs/1601.05610](http://arxiv.org/abs/1601.05610)
 
 
 ## project
 **[2017]mxnet, End-to-End Chinese plate recognition base on mxnet**
-* 代码：[ 多标签分类,端到端的中文车牌识别基于mxnet, End-to-End Chinese plate recognition base on mxnet](https://github.com/szad670401/end-to-end-for-chinese-plate-recognition)
+- intro：多标签分类,端到端的中文车牌识别基于mxnet
+- github: https://github.com/szad670401/end-to-end-for-chinese-plate-recognition
 
 **[2016]end-to-end-for-plate-recognition**
 - github: [https://github.com/szad670401/end-to-end-for-chinese-plate-recognition](https://github.com/szad670401/end-to-end-for-chinese-plate-recognition)
