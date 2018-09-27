@@ -1,8 +1,6 @@
-# �˵��˵�OCR��
+# end-to-end methods
 
-�˵��˵���Ȼ�����ı������ʶ����Щ�궼�����ü����ʶ�𵥶��ķ���ƴ�Ӷ��ɣ�����ʹ���ı���λ�����õ��ı���λ��Ȼ����ʶ�𷽷�����λ�õ����ı�����ʶ��
-
-������ʼ�˵����ı������ʶ����[1]Chunhua Shen�Ŷӿ�ʼ����Ϊ���еķ�������[1 2,2017]��[1 2 3,2018]
+真正的端到端方法：[1 2,2017]&[1 2 3,2018]
 
 ## Deep Learning Methods
 ### 2018
@@ -21,10 +19,10 @@ Recognition Framework [ICCV'2017](http://openaccess.thecvf.com/ICCV2017.py) [pdf
 [3]STN-OCR: A single Neural Network for Text Detection and Text Recognition[CoRR][pdf](https://arxiv.org/abs/1707.08831) [code](https://github.com/Bartzi/stn-ocr)
 
 ### 2016
-[1]Reading Text in the Wild with Convolutional Neural Networks [IJCV'2016] [pdf](https://arxiv.org/abs/1412.1842) [code](http://www.robots.ox.ac.uk/~vgg/research/text/#sec-technical) [pdf](https://arxiv.org/pdf/1507.05717v1.pdf) [code](https://github.com/bgshih/crnn)
+[1]Reading Text in the Wild with Convolutional Neural Networks [IJCV'2016] [pdf](https://arxiv.org/abs/1412.1842) [code](http://www.robots.ox.ac.uk/~vgg/research/text/#sec-technical)
 
 ### 2015
-[1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
+[1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [pdf](https://arxiv.org/pdf/1507.05717v1.pdf) [code](https://github.com/bgshih/crnn)
 
 ### 2014
 [1]Deep Features for Text Spotting [ECCV'2014] [pdf](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf) [code]
