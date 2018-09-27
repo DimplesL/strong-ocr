@@ -1,8 +1,8 @@
-# 端到端的OCR：
+# 锟剿碉拷锟剿碉拷OCR锟斤拷
 
-端到端的自然场景文本检测与识别，早些年都是利用检测与识别单独的方法拼接而成，即先使用文本定位方法得到文本定位，然后用识别方法将定位得到的文本进行识别。
+锟剿碉拷锟剿碉拷锟斤拷然锟斤拷锟斤拷锟侥憋拷锟斤拷锟斤拷锟绞讹拷锟斤拷锟叫╋拷甓硷拷锟斤拷锟斤拷眉锟斤拷锟斤拷识锟金单讹拷锟侥凤拷锟斤拷拼锟接讹拷锟缴ｏ拷锟斤拷锟斤拷使锟斤拷锟侥憋拷锟斤拷位锟斤拷锟斤拷锟矫碉拷锟侥憋拷锟斤拷位锟斤拷然锟斤拷锟斤拷识锟金方凤拷锟斤拷锟斤拷位锟矫碉拷锟斤拷锟侥憋拷锟斤拷锟斤拷识锟斤拷
 
-真正开始端到端文本检测与识别是[1]Chunhua Shen团队开始，较为流行的方法包括[1 2,2017]及[1 2 3,2018]
+锟斤拷锟斤拷锟斤拷始锟剿碉拷锟斤拷锟侥憋拷锟斤拷锟斤拷锟绞讹拷锟斤拷锟絒1]Chunhua Shen锟脚队匡拷始锟斤拷锟斤拷为锟斤拷锟叫的凤拷锟斤拷锟斤拷锟斤拷[1 2,2017]锟斤拷[1 2 3,2018]
 
 ## Deep Learning Methods
 ### 2018
@@ -21,7 +21,10 @@ Recognition Framework [ICCV'2017](http://openaccess.thecvf.com/ICCV2017.py) [pdf
 [3]STN-OCR: A single Neural Network for Text Detection and Text Recognition[CoRR][pdf](https://arxiv.org/abs/1707.08831) [code](https://github.com/Bartzi/stn-ocr)
 
 ### 2016
-[1]Reading Text in the Wild with Convolutional Neural Networks [IJCV'2016] [pdf](https://arxiv.org/abs/1412.1842) [code](http://www.robots.ox.ac.uk/~vgg/research/text/#sec-technical)
+[1]Reading Text in the Wild with Convolutional Neural Networks [IJCV'2016] [pdf](https://arxiv.org/abs/1412.1842) [code](http://www.robots.ox.ac.uk/~vgg/research/text/#sec-technical) [pdf](https://arxiv.org/pdf/1507.05717v1.pdf) [code](https://github.com/bgshih/crnn)
+
+### 2015
+[1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 
 ### 2014
 [1]Deep Features for Text Spotting [ECCV'2014] [pdf](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf) [code]
